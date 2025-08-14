@@ -1,0 +1,11 @@
+{
+  "name": "@battleship/functions",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "echo 'lint placeholder'",
+    "build": "echo 'edge functions built by supabase CLI'",
+    "typecheck": "echo 'deno typecheck via supabase'"
+  }
+}
